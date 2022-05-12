@@ -1,7 +1,5 @@
 id: P000061
 initial_creation_type: ebook
-created_at: '2020-01-31T11:06:29.902795'
-last_modified_at: '2021-11-25T11:06:29.902795'
 source_metadata:
   title: ༄༅། །ངེས་དོན་གྱི་ལྟ་སྒོམ་ཉམས་སུ་ལེན་ཚུལ་ཇི་ལྟ་བར་སྟོན་པ་རྡོ་རྗེའི་མདོ་འཛིན་ཞེས་བྱ་བ་ལ་ལྡེབ།
     །
@@ -13,30 +11,10 @@ source_metadata:
   - chapter_title
   - yigchung
   id: TSD-TSE-01
-web_metadata:
-  title:
-    en: The Heart of the Matter:Showing the True Meditation Practice on Definitive
-      View
-    bo: ངེས་དོན་གྱི་ལྟ་སྒོམ་ཉམས་སུ་ལེན་ཚུལ་ཇི་ལྟ་བར་སྟོན་པ་རྡོ་རྗེའི་མདོ་འཛིན་ཞེས་བྱ་བ་ལ་ལྡེབ།
-  collection:
-    en: Tsele Natsok Rangdrol Series–  Book 1
-    bo: རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།–  དེབ། ༡
-  author:
-    en: Tsele Natsok Rangdrol
-    bo: རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།
-  pusblisher:
-    en: Tsadra Foundation Publishing
-    bo: ཙཱ་འདྲ་ཐེབས་རྩ་ཚོགས་པ།
-  sku: TSD-TSE-01
-  category:
-    en: Pith Instructions
-    bo: མན་ངག
-  org:
-    bo: Timeless Treasuries
-    en: མཐའ་ཡས་དཔེ་མཛོད།
-  website: http://dharmacloud.tsadra.org
-  aquisition_data: '2019-07-18'
-  filename: TSD-TSE-01.epub
-  description:
-    en: ''
-    bo: ''
+created_at: '2020-01-31T11:06:29.902795'
+last_modified_at: '2021-11-25T11:06:29.902795'
+statistics:
+  total_words: 7639
+  total_non_words: 811
+quality:
+  non_words_ratio: 0.11
